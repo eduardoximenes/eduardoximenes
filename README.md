@@ -1,4 +1,7 @@
-### ![](https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif width="200" height="100") Hi there 👋 ![](https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif width="200" height="100")
+![](https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif )
+### Hi there 👋 
+<img style="width: 300px; height: 200px;" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" alt="Your GIF description">
+
 
 <!--
 **eduardoximenes/eduardoximenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
