@@ -1,76 +1,10 @@
-<p dir="auto">
-      <animated-image style="float: left; width: 20%;">
-            <a  href="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" >
-                  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" style="max-width: 100%; display: inline-block;" >
-            </a>
-      <span class="AnimatedImagePlayer" hidden="">
-        <a class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" >          
-              <span>
-                  <img alt="144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" class="AnimatedImagePlayer-animatedImage"                                                                             src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" style="display: block; opacity: 1;">
-                <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="114" height="114">
-                </canvas>
-              </span>
-            </a>
-        <button  class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" hidden="">
-          <button  class="AnimatedImagePlayer-button" aria-label="Play 144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a  aria-label="Open 144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif in new window" class="AnimatedImagePlayer-button" href="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span>
-      </animated-image>
-      <animated-image style="float: right; width: 20%;">
-            <a  href="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" >
-                  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" style="max-width: 100%; display: inline-block;" >
-            </a>
-      <span class="AnimatedImagePlayer" hidden="">
-        <a class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" >          
-              <span>
-                  <img alt="144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" class="AnimatedImagePlayer-animatedImage"                                                                             src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" style="display: block; opacity: 1;">
-                <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="114" height="114">
-                </canvas>
-              </span>
-            </a>
-        <button  class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" hidden="">
-          <button  class="AnimatedImagePlayer-button" aria-label="Play 144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a  aria-label="Open 144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif in new window" class="AnimatedImagePlayer-button" href="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span>
-      </animated-image>
-      </p>
+
 <h1 align="center" dir="auto"><a id="user-content-hi--im-werewolves0493" class="anchor" aria-hidden="true" tabindex="-1" href="#hi--im-werewolves0493"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Hi 👋, I'm Eduardo Ximenes</h1>
 <p dir="auto"><a href="https://web.archive.org/web/20240101133540/https://www.linkedin.com/in/" rel="nofollow"><img src="https://web.archive.org/web/20240101133540im_/https://camo.githubusercontent.com/e8dbf62a04af86d46001864cd22338d8a8474486a0e976ec695580027c373c79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://web.archive.org/web/20240101133540/https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://web.archive.org/web/20240101133540/https://twitter.com/cryptopunkclan" rel="nofollow"><img src="https://web.archive.org/web/20240101133540im_/https://camo.githubusercontent.com/e97449103b99db365dca0ff65af4a8b068a831136dc0a156239a71dff4223dba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://web.archive.org/web/20240101133540/https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://web.archive.org/web/20240101133540/mailto:seniordev1225@gmail.com"><img src="https://web.archive.org/web/20240101133540im_/https://camo.githubusercontent.com/824a983e5ac82a435d1b158fba7439c4dc64fa7bdc475da7423dfbf797ed3b18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334545303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://web.archive.org/web/20240101133540/https://img.shields.io/badge/gmail-%23EE0000.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://web.archive.org/web/20240101133540/https://camo.githubusercontent.com/a20dba7cc4548612464419f5890cb52b71a4b22d726f73d8554d8a34ff443ff4/68747470733a2f2f6261646765732e7075666c65722e6465762f7669736974732f57657265776f6c766573303439332f57657265776f6c766573303439333f7374796c653d666f722d7468652d6261646765"><img src="https://web.archive.org/web/20240101133540im_/https://camo.githubusercontent.com/a20dba7cc4548612464419f5890cb52b71a4b22d726f73d8554d8a34ff443ff4/68747470733a2f2f6261646765732e7075666c65722e6465762f7669736974732f57657265776f6c766573303439332f57657265776f6c766573303439333f7374796c653d666f722d7468652d6261646765" alt="Visits Badge" data-canonical-src="https://web.archive.org/web/20240101133540/https://badges.pufler.dev/visits/Werewolves0493/Werewolves0493?style=for-the-badge" style="max-width: 100%;"></a></p>
 <ul dir="auto">
 <li>
-<p dir="auto">🔭 I’m currently Senior Fullstack developer at <a href="https://web.archive.org/web/20240101133540/https://chronos.exchange/" rel="nofollow">Chronos Finance</a></p>
-</li>
-<li>
-<p dir="auto">🌱 I’m currently Lead Developer at <a href="https://web.archive.org/web/20240101133540/https://waxel.net/" rel="nofollow">Waxel World</a></p>
+<p dir="auto">🔭 I’m currently Trainee Fullstack developer at <a href="https:eduzz.com" rel="nofollow">Eduzz</a></p>
 </li>
 <li>
 <p dir="auto">💬 Ask me about <strong>Blockchain, NFT, Web3, EVM, Solana, Rust, React and NodeJS</strong></p>
