@@ -19,14 +19,14 @@ href="https://camo.githubusercontent.com/a20dba7cc4548612464419f5890cb52b71a4b22
 </p>
 <ul>
   <li>
-    <p>🔭 I’m currently Trainee Fullstack developer at <a href="https://www.eduzz.com/pt-br"> Eduzz</a></p>
+    <p>🔭 I’m currently Part-time Fullstack developer at <a href="https://www.eduzz.com/pt-br"> Eduzz</a></p>
   </li>
   <li> 
     <p>📚 I’m currently learning about Python and Django</p>
   </li>
-  <li>
+  <!--<li>
      <p>Ask me about Blockchain, NFT, EVM, PHP and Laravel </p>
-  </li>
+  </li>-->
 </ul>
 
 <h1 align="left">Connect with me:</h1>
