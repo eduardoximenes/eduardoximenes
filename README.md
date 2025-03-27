@@ -32,7 +32,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,php,laravel,java,py,django" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,php,laravel,nodejs,express,py" />
   </a>
 </p>
 <p>
@@ -40,7 +40,7 @@
 </p>
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,tailwind,alpinejs,vue,livewire,filament&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,react,tailwind,alpinejs,vue,livewire,filament&theme=dark" />
   </a>
 </p>
 
