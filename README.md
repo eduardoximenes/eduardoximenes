@@ -6,7 +6,7 @@
     <p>🔭 I’m currently Part-time Fullstack developer at <a href="https://www.eduzz.com/pt-br"> Eduzz</a></p>
   </li>
   <li> 
-    <p>📚 I’m currently improving Javascript and React</p>
+    <p>📚 I’m currently improving NodeJS and React</p>
   </li>
   <!--<li>
      <p>Ask me about Blockchain, NFT, EVM, PHP and Laravel </p>
